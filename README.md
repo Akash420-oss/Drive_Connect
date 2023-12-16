@@ -3,9 +3,9 @@ This an IoT based Project featuring Server Client.
 
 ## Table of Contents
 * [Basic Driving Information 🛞](#about-project)
-  * [Manufacturing The Project](#built-with)
-    * [Hardware Part](#hardware-part)
-    * [Software Part](#software-part)
+  * [Manufactured By](#built-with)
+    * [Hardware](#hardware-part)
+    * [Software](#software-part)
 * [How Do I Drive This Car🤔?](#getting-started)
   * [Build The Car And Remote](#installation)
   * [Upload The Software😉](#code_upload)
