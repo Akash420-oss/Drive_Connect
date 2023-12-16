@@ -35,7 +35,7 @@ String *listConnectedDevices() {
   return hex_val;
 }
 String *define_mac(){
-  String mac_vall[]={"f0","8","d1","1","62","d2"};
+  String mac_vall[]={"your another NodeMcu's Mac"};
   String *mac_val2=new String[12];
   for (int k=0;k<6;k++){
     mac_val2[k].concat(mac_vall[k]);
