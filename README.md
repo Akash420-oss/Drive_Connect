@@ -54,4 +54,5 @@ This Project made with Software and Hardware also...
 ### Build The Car And Remote
 In this section first we will build the car but i will tell you only the circuit part and the design it would be depend on you so, think... think...🤔
 * For Wifi Car
-  
+  Components | NodeMcu's Pins
+  ---        |      ---
