@@ -128,4 +128,4 @@ If all circuits have done...
 * I hope you would be a better driver in your future...😇
 * Don't drink & drive...otherwise Police will charge you in "Drink & Drive" case for that you have to pay...😝
 * But when it comes to as a racer then must you have to be a crazy person...🤪
-* Again don't consume alcohol while driving...because it will kill you but not only you but also those who depend on you like your family...😔
+* Again don't consume alcohol while driving...because it will kill you but not only you but also affect those who depend on you like your family...😔
