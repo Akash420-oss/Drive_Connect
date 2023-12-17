@@ -115,7 +115,7 @@ If all circuits have done...
 2. After that what are you waiting for upload the code now then we will go....🚗
    * If you want to upload it from terminal then should run this 👇
      ```sh
-     sudo esptool.py
+     sudo esptool.py --port "check your port" --chip esp8266 --baud 115200 write_flash 0x00000 your_binary_file.bin
      ```
 3. Wooo-hoooo!!!!!! it was amazing...🤩 your driving licence has been passed...😍
 
