@@ -10,7 +10,7 @@ This an IoT based Project featuring Server Client.
   * [Build The Car And Remote](#installation)
   * [Upload The Software😉](#code_upload)
 * [Contact](#contact)
-* [Thank You](#wishes)
+* [Have A Safe Journey 😇](#wishes)
 
 ## Basic Driving Information 👮🏽‍♂️
 As i said this Project based on IoT so it has two types of Server Modes(TCP Server And UDP Server) and basically it can connect two types of Client(TCP Client And UDP Client).
@@ -47,9 +47,9 @@ This Project made with Software and Hardware also...
   * C++
 
 ## How Do I Drive This Car 🤔?
-You can drive the car by Wifi Remote or by Mobile etc...😎
-But first we have to build Car after that we will go on a test drive...😉
-So, let's get Started...vroom vroom vrooooooooom....
+1. You can drive the car by Wifi Remote or by Mobile etc...😎
+2. But first we have to build Car after that we will go on a test drive...😉
+3. So, let's get Started...vroom vroom vrooooooooom....
 
 ### Build The Car And Remote
 In this section first we will build the car but i will tell you only the circuit part and the design it would be depend on you so, think... think...🤔
