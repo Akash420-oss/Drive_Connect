@@ -68,3 +68,19 @@ In this section first we will build the car but i will tell you only the circuit
   IN_2               | D5
   IN_3               | D1
   IN_4               | D2
+
+* For Wifi Remote
+  LEDs      | NodeMcu's Pins
+  ---       | ---
+  GREEN_LED | D5
+  RED_LED   | D6
+  LEFT_LED  | D7
+  RIGHT_LED | D8
+
+
+  Push_Buttons    | NodeMcu's Pins
+  ---             | ---
+  FORWARD_BUTTON  | D0
+  BACKWARD_BUTTON | D1
+  LEFT_BUTTON     | D2
+  RIGHT_BUTTON    | D3
