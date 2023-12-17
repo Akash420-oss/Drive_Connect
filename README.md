@@ -8,7 +8,9 @@ This an IoT based Project featuring Server Client.
     * [Software Part](#software-part)
 * [How Do I Drive This Car🤔?](#getting-started)
   * [Build The Car And Remote](#installation)
-  * [Upload The Software😉](#code_upload)
+  * [Build The Software Part 😉](#code_upload)
+    * [Prequisites](3prequisites)
+    * [Inject The Code 💉](#code-software)
 * [Contact](#contact)
 * [Have A Safe Journey 😇](#wishes)
 
@@ -52,7 +54,8 @@ This Project made with Software and Hardware also...
 3. So, let's get Started...vroom vroom vrooooooooom....
 
 ### Build The Car And Remote
-In this section first we will build the car but i will tell you only the circuit part and the design it would be depend on you so, think... think...🤔
+In this section first we will build the car...🤩 
+But i will tell you only the circuit part and the design it would be depend on you so, think... think...🤔
 * For Wifi Car
   LEDs       | NodeMcu's Pins      
   ---        |      ---                 
@@ -84,3 +87,17 @@ In this section first we will build the car but i will tell you only the circuit
   BACKWARD_BUTTON | D1
   LEFT_BUTTON     | D2
   RIGHT_BUTTON    | D3
+
+
+### Build The Software Part 😉
+If all circuits have done...
+
+#### Prequisites
+1. Install Arduino IDE 
+* If you are in Windows then download from this link 👉 https://www.arduino.cc/en/software
+* If you have Debian based linux then shoul run this command 👇
+```sh
+sudo apt-get update -y && apt install arduino -y
+``` 
+
+  
