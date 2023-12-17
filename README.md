@@ -94,10 +94,15 @@ If all circuits have done...
 
 #### Prequisites
 1. Install Arduino IDE 
-* If you are in Windows then download from this link 👉 https://www.arduino.cc/en/software
-* If you have Debian based linux then shoul run this command 👇
-```sh
-sudo apt-get update -y && apt install arduino -y
-``` 
+   * If you are in Windows then download from this link 👉 https://www.arduino.cc/en/software 
+   * If you have Debian based linux then should run this command 👇
+     ```sh
+     sudo apt-get update -y && apt install arduino -y
+     ```
+   * If you are in Arch based linux then run this 👇
+     ```sh
+     sudo pacman -Syu --noconfirm && pacman -S arduino --noconfirm
+     ```
+
 
   
