@@ -126,6 +126,6 @@ If all circuits have done...
 
 ## Journey Never Ends 😇
 * I hope you would be a better driver in your future...😇
-* Don't drink & drive...otherwise you have to pay some money to Police...😝
+* Don't drink & drive...otherwise Police will charge you in "Drink & Drive" case for that you have to pay...😝
 * But when it comes to as a racer then must you have to be a crazy person...🤪
 * Again don't consume alcohol while driving...because it will kill you but not only you but also those who depend on you like your family...😔
