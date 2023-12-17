@@ -49,7 +49,7 @@ This Project made with Software and Hardware also...
   * C++
 
 ## How Do I Drive This Car 🤔?
-1. You can drive the car by Wifi Remote or by Mobile etc...😎
+1. You can drive the car by Wifi Remote or by any wifi device like Laptop etc...😎
 2. But first we have to build Car after that we will go on a test drive...😉
 3. So, let's get Started...vroom vroom vrooooooooom....
 
