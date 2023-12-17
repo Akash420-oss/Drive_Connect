@@ -103,6 +103,25 @@ If all circuits have done...
      ```sh
      sudo pacman -Syu --noconfirm && pacman -S arduino --noconfirm
      ```
-2. After open the IDE, check the "File" at the left most then check for "Preferences" after click search for "Additional Boards Manager URLs" on this site paste this link https://arduino.esp8266.com/stable/package_esp8266com_index.json
+2. After open the IDE, check the "File" at the left most then check for "Preferences" after click search for "Additional Boards Manager URLs" on this site paste this link 👉 https://arduino.esp8266.com/stable/package_esp8266com_index.json
 
-  
+3. Then go to Tools next go for Boards manager then search with "esp8266" after select the latest version then install it.
+
+#### Inject The Code 💉
+1. Clone the repo
+   ```sh
+   git clone https://github.com/Akash420-oss/Drive_Connect.git
+   ```
+2. After that what are you waiting for upload the code now then we will go....🚗
+   * If you want to upload it from terminal then should run this 👇
+     ```sh
+     sudo esptool.py
+     ```
+3. Wooo-hoooo!!!!!! it was amazing...🤩 your driving licence has been passed...😍
+
+
+## Contact
+* Linkedin - https://www.linkedin.com/in/akash-sil-102481216/
+* Mail - akashsil420@duck.com
+
+## Have A Safe Journey
