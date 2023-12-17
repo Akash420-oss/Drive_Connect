@@ -103,6 +103,6 @@ If all circuits have done...
      ```sh
      sudo pacman -Syu --noconfirm && pacman -S arduino --noconfirm
      ```
-
+2. After open the IDE, check the "File" at the left most then check for "Preferences" after click search for "Additional Boards Manager URLs" on this site paste this link https://arduino.esp8266.com/stable/package_esp8266com_index.json
 
   
