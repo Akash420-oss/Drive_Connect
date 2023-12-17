@@ -9,7 +9,7 @@ This an IoT based Project featuring Server Client.
 * [How Do I Drive This Car🤔?](#getting-started)
   * [Build The Car And Remote](#installation)
   * [Build The Software Part 😉](#code_upload)
-    * [Prequisites](#prerequisites)
+    * [Prerequisites](#prerequisites)
     * [Inject The Code 💉](#code-software)
 * [Contact](#contact)
 * [Journey Never Ends 😇](#wishes)
@@ -92,7 +92,7 @@ But i will tell you only the circuit part and the design it would be depend on y
 ### Build The Software Part 😉
 If all circuits have done...
 
-#### Prequisites
+#### Prerequisites
 1. Install Arduino IDE 
    * If you are in Windows then download from this link 👉 https://www.arduino.cc/en/software 
    * If you have Debian based linux then should run this command 👇
@@ -128,4 +128,4 @@ If all circuits have done...
 * I hope you would be a better driver in your future...😇
 * Don't drink & drive...otherwise you have to pay some money to Police...😝
 * But when it comes to as a racer then must you have to be a crazy person...🤪
-* Again don't consume alcohol while driving...because it will kill you but not only you but also those who depend on you like your family... 
+* Again don't consume alcohol while driving...because it will kill you but not only you but also those who depend on you like your family...😔
