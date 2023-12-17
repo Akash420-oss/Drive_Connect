@@ -54,10 +54,10 @@ This Project made with Software and Hardware also...
 ### Build The Car And Remote
 In this section first we will build the car but i will tell you only the circuit part and the design it would be depend on you so, think... think...🤔
 * For Wifi Car
-  LEDs       | NodeMcu's Pins
-  ---        |      ---
-  GREEN_LED  |  D7
-  RED_LED    |  D8
-  BROWN_LEFT |  D0
-  BROWN_RIGHT|  D6
+  LEDs       | NodeMcu's Pins            L293D Motor Driver | NodeMcu's Pins
+  ---        |      ---                  ---                | ---
+  GREEN_LED  |  D7                       IN_1               | D3
+  RED_LED    |  D8                       IN_2               | D5
+  BROWN_LEFT |  D0                       IN_3               | D1
+  BROWN_RIGHT|  D6                       IN_4               | D2
   
